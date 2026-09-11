@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/vitality-plus-ultra-belgium/sitemap.xml
+Sitemap: https://vitality-plus-ultra-belgium.vercel.app/sitemap-vercel.xml
+Sitemap: https://vitality-plus-ultra-belgium.pages.dev/sitemap-cloudflare.xml
